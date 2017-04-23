@@ -1,2 +1,1 @@
-# Ame
-个人空间
+This is a software wo management your acount and password.
